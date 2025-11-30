@@ -1,0 +1,5 @@
+/home/vboxuser/Documents/BIGDATALABS/lab3_mapreduce/src/main/java/edu/ismagi/hadoop/mapreduce/WordCount.java
+/home/vboxuser/Documents/BIGDATALABS/lab3_mapreduce/src/main/java/edu/ismagi/hadoop/mapreduce/FixedWordCount.java
+/home/vboxuser/Documents/BIGDATALABS/lab3_mapreduce/src/main/java/edu/ismagi/hadoop/mapreduce/IntSumReducer.java
+/home/vboxuser/Documents/BIGDATALABS/lab3_mapreduce/src/main/java/edu/ismagi/hadoop/mapreduce/TokenizerMapper.java
+/home/vboxuser/Documents/BIGDATALABS/lab3_mapreduce/src/main/java/edu/ismagi/hadoop/mapreduce/Main.java
